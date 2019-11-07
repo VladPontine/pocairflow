@@ -1,0 +1,104 @@
+[2019-11-07 17:44:28,968] {dag_processing.py:820} INFO - Processing files using up to 1 processes at a time 
+[2019-11-07 17:44:28,969] {dag_processing.py:821} INFO - Process each file at most once every 0 seconds
+[2019-11-07 17:44:28,969] {dag_processing.py:823} INFO - Checking for new files in /home/vlad/airflow/dags every 300 seconds
+[2019-11-07 17:44:28,971] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-11-07 17:44:28,971] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2019-11-07 16:39:28.971237+00:00
+[2019-11-07 17:44:29,125] {dag_processing.py:1023} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/vlad/airflow/dags/poc.py                           0           0  0.12s           2019-11-07T16:44:29
+================================================================================
+[2019-11-07 17:44:40,951] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-11-07 17:44:40,952] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2019-11-07 16:39:40.952680+00:00
+[2019-11-07 17:44:52,957] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-11-07 17:44:52,958] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2019-11-07 16:39:52.958328+00:00
+[2019-11-07 17:45:01,193] {dag_processing.py:1023} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/vlad/airflow/dags/poc.py                           0           0  0.22s           2019-11-07T16:45:01
+================================================================================
+[2019-11-07 17:45:04,966] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-11-07 17:45:04,967] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2019-11-07 16:40:04.967023+00:00
+[2019-11-07 17:45:18,964] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-11-07 17:45:18,965] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2019-11-07 16:40:18.965887+00:00
+[2019-11-07 17:45:32,510] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-11-07 17:45:32,510] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2019-11-07 16:40:32.510755+00:00
+[2019-11-07 17:45:32,945] {dag_processing.py:1023} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/vlad/airflow/dags/poc.py                           1           0  0.42s           2019-11-07T16:45:32
+================================================================================
+[2019-11-07 17:46:12,537] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-11-07 17:46:12,539] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2019-11-07 16:41:12.539757+00:00
+[2019-11-07 17:46:13,083] {dag_processing.py:1023} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/vlad/airflow/dags/poc.py                           1           0  0.52s           2019-11-07T16:46:13
+================================================================================
+[2019-11-07 17:46:26,664] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-11-07 17:46:26,664] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2019-11-07 16:41:26.664956+00:00
+[2019-11-07 17:47:06,516] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-11-07 17:47:06,517] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2019-11-07 16:42:06.517663+00:00
+[2019-11-07 17:47:07,176] {dag_processing.py:1023} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/vlad/airflow/dags/poc.py                           1           0  0.63s           2019-11-07T16:47:07
+================================================================================
+[2019-11-07 17:47:20,563] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-11-07 17:47:20,563] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2019-11-07 16:42:20.563366+00:00
+[2019-11-07 17:47:59,362] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-11-07 17:47:59,363] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2019-11-07 16:42:59.363409+00:00
+[2019-11-07 17:47:59,793] {dag_processing.py:1023} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/vlad/airflow/dags/poc.py                           1           0  0.42s           2019-11-07T16:47:59
+================================================================================
+[2019-11-07 17:48:12,910] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-11-07 17:48:12,910] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2019-11-07 16:43:12.910450+00:00
+[2019-11-07 17:48:54,243] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-11-07 17:48:54,244] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2019-11-07 16:43:54.244794+00:00
+[2019-11-07 17:48:54,685] {dag_processing.py:1023} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/vlad/airflow/dags/poc.py                           1           0  0.42s           2019-11-07T16:48:54
+================================================================================
+[2019-11-07 17:49:20,423] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-11-07 17:49:20,424] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2019-11-07 16:44:20.424324+00:00
+[2019-11-07 17:49:21,374] {dag_processing.py:1191} WARNING - Processor for /home/vlad/airflow/dags/poc.py exited with return code 1.
+[2019-11-07 17:49:29,119] {dag_processing.py:910} INFO - Searching for files in /home/vlad/airflow/dags
+[2019-11-07 17:49:29,123] {dag_processing.py:913} INFO - There are 1 files in /home/vlad/airflow/dags
+[2019-11-07 17:49:29,559] {dag_processing.py:1023} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/vlad/airflow/dags/poc.py                           1           0  0.42s           2019-11-07T16:49:29
+================================================================================
+[2019-11-07 17:49:31,121] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-11-07 17:49:31,121] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2019-11-07 16:44:31.121474+00:00
+[2019-11-07 17:50:09,773] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-11-07 17:50:09,776] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2019-11-07 16:45:09.775904+00:00
+[2019-11-07 17:50:10,402] {dag_processing.py:806} INFO - Exiting gracefully upon receiving signal 15
+[2019-11-07 17:50:10,412] {dag_processing.py:1372} INFO - Waiting up to 5 seconds for processes to exit...

@@ -1,0 +1,548 @@
+[2019-11-07 17:44:29,018] {scheduler_job.py:153} INFO - Started process (PID=9323) to work on /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:44:29,023] {scheduler_job.py:1528} INFO - Processing file /home/vlad/airflow/dags/poc.py for tasks to queue
+[2019-11-07 17:44:29,024] {logging_mixin.py:112} INFO - [2019-11-07 17:44:29,024] {dagbag.py:92} INFO - Filling up the DagBag from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:44:29,034] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:44:29,069] {scheduler_job.py:161} INFO - Processing /home/vlad/airflow/dags/poc.py took 0.052 seconds
+[2019-11-07 17:44:30,975] {scheduler_job.py:153} INFO - Started process (PID=9324) to work on /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:44:30,982] {scheduler_job.py:1528} INFO - Processing file /home/vlad/airflow/dags/poc.py for tasks to queue
+[2019-11-07 17:44:30,982] {logging_mixin.py:112} INFO - [2019-11-07 17:44:30,982] {dagbag.py:92} INFO - Filling up the DagBag from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:44:30,991] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:44:31,019] {scheduler_job.py:161} INFO - Processing /home/vlad/airflow/dags/poc.py took 0.044 seconds
+[2019-11-07 17:44:32,977] {scheduler_job.py:153} INFO - Started process (PID=9325) to work on /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:44:32,984] {scheduler_job.py:1528} INFO - Processing file /home/vlad/airflow/dags/poc.py for tasks to queue
+[2019-11-07 17:44:32,984] {logging_mixin.py:112} INFO - [2019-11-07 17:44:32,984] {dagbag.py:92} INFO - Filling up the DagBag from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:44:32,993] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:44:33,029] {scheduler_job.py:161} INFO - Processing /home/vlad/airflow/dags/poc.py took 0.052 seconds
+[2019-11-07 17:44:34,979] {scheduler_job.py:153} INFO - Started process (PID=9327) to work on /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:44:34,986] {scheduler_job.py:1528} INFO - Processing file /home/vlad/airflow/dags/poc.py for tasks to queue
+[2019-11-07 17:44:34,987] {logging_mixin.py:112} INFO - [2019-11-07 17:44:34,987] {dagbag.py:92} INFO - Filling up the DagBag from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:44:34,998] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:44:35,032] {scheduler_job.py:161} INFO - Processing /home/vlad/airflow/dags/poc.py took 0.053 seconds
+[2019-11-07 17:44:36,981] {scheduler_job.py:153} INFO - Started process (PID=9328) to work on /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:44:36,991] {scheduler_job.py:1528} INFO - Processing file /home/vlad/airflow/dags/poc.py for tasks to queue
+[2019-11-07 17:44:36,992] {logging_mixin.py:112} INFO - [2019-11-07 17:44:36,992] {dagbag.py:92} INFO - Filling up the DagBag from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:44:37,005] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:44:37,050] {scheduler_job.py:161} INFO - Processing /home/vlad/airflow/dags/poc.py took 0.069 seconds
+[2019-11-07 17:44:39,000] {scheduler_job.py:153} INFO - Started process (PID=9329) to work on /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:44:39,023] {scheduler_job.py:1528} INFO - Processing file /home/vlad/airflow/dags/poc.py for tasks to queue
+[2019-11-07 17:44:39,027] {logging_mixin.py:112} INFO - [2019-11-07 17:44:39,025] {dagbag.py:92} INFO - Filling up the DagBag from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:44:39,058] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:44:39,130] {scheduler_job.py:161} INFO - Processing /home/vlad/airflow/dags/poc.py took 0.131 seconds
+[2019-11-07 17:44:40,991] {scheduler_job.py:153} INFO - Started process (PID=9330) to work on /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:44:40,996] {scheduler_job.py:1528} INFO - Processing file /home/vlad/airflow/dags/poc.py for tasks to queue
+[2019-11-07 17:44:40,997] {logging_mixin.py:112} INFO - [2019-11-07 17:44:40,997] {dagbag.py:92} INFO - Filling up the DagBag from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:44:41,006] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:44:41,034] {scheduler_job.py:161} INFO - Processing /home/vlad/airflow/dags/poc.py took 0.043 seconds
+[2019-11-07 17:44:42,979] {scheduler_job.py:153} INFO - Started process (PID=9331) to work on /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:44:42,984] {scheduler_job.py:1528} INFO - Processing file /home/vlad/airflow/dags/poc.py for tasks to queue
+[2019-11-07 17:44:42,984] {logging_mixin.py:112} INFO - [2019-11-07 17:44:42,984] {dagbag.py:92} INFO - Filling up the DagBag from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:44:42,993] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:44:43,024] {scheduler_job.py:161} INFO - Processing /home/vlad/airflow/dags/poc.py took 0.046 seconds
+[2019-11-07 17:44:44,977] {scheduler_job.py:153} INFO - Started process (PID=9332) to work on /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:44:44,982] {scheduler_job.py:1528} INFO - Processing file /home/vlad/airflow/dags/poc.py for tasks to queue
+[2019-11-07 17:44:44,982] {logging_mixin.py:112} INFO - [2019-11-07 17:44:44,982] {dagbag.py:92} INFO - Filling up the DagBag from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:44:44,991] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:44:45,022] {scheduler_job.py:161} INFO - Processing /home/vlad/airflow/dags/poc.py took 0.046 seconds
+[2019-11-07 17:44:46,986] {scheduler_job.py:153} INFO - Started process (PID=9333) to work on /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:44:46,991] {scheduler_job.py:1528} INFO - Processing file /home/vlad/airflow/dags/poc.py for tasks to queue
+[2019-11-07 17:44:46,991] {logging_mixin.py:112} INFO - [2019-11-07 17:44:46,991] {dagbag.py:92} INFO - Filling up the DagBag from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:44:47,000] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:44:47,029] {scheduler_job.py:161} INFO - Processing /home/vlad/airflow/dags/poc.py took 0.043 seconds
+[2019-11-07 17:44:48,984] {scheduler_job.py:153} INFO - Started process (PID=9334) to work on /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:44:48,989] {scheduler_job.py:1528} INFO - Processing file /home/vlad/airflow/dags/poc.py for tasks to queue
+[2019-11-07 17:44:48,990] {logging_mixin.py:112} INFO - [2019-11-07 17:44:48,989] {dagbag.py:92} INFO - Filling up the DagBag from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:44:48,998] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:44:49,028] {scheduler_job.py:161} INFO - Processing /home/vlad/airflow/dags/poc.py took 0.044 seconds
+[2019-11-07 17:44:50,990] {scheduler_job.py:153} INFO - Started process (PID=9335) to work on /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:44:50,997] {scheduler_job.py:1528} INFO - Processing file /home/vlad/airflow/dags/poc.py for tasks to queue
+[2019-11-07 17:44:50,998] {logging_mixin.py:112} INFO - [2019-11-07 17:44:50,997] {dagbag.py:92} INFO - Filling up the DagBag from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:44:51,008] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:44:51,049] {scheduler_job.py:161} INFO - Processing /home/vlad/airflow/dags/poc.py took 0.058 seconds
+[2019-11-07 17:44:52,999] {scheduler_job.py:153} INFO - Started process (PID=9336) to work on /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:44:53,004] {scheduler_job.py:1528} INFO - Processing file /home/vlad/airflow/dags/poc.py for tasks to queue
+[2019-11-07 17:44:53,005] {logging_mixin.py:112} INFO - [2019-11-07 17:44:53,005] {dagbag.py:92} INFO - Filling up the DagBag from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:44:53,016] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:44:53,044] {scheduler_job.py:161} INFO - Processing /home/vlad/airflow/dags/poc.py took 0.045 seconds
+[2019-11-07 17:44:54,985] {scheduler_job.py:153} INFO - Started process (PID=9337) to work on /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:44:54,990] {scheduler_job.py:1528} INFO - Processing file /home/vlad/airflow/dags/poc.py for tasks to queue
+[2019-11-07 17:44:54,991] {logging_mixin.py:112} INFO - [2019-11-07 17:44:54,991] {dagbag.py:92} INFO - Filling up the DagBag from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:44:54,999] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:44:55,035] {scheduler_job.py:161} INFO - Processing /home/vlad/airflow/dags/poc.py took 0.051 seconds
+[2019-11-07 17:44:56,985] {scheduler_job.py:153} INFO - Started process (PID=9346) to work on /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:44:56,990] {scheduler_job.py:1528} INFO - Processing file /home/vlad/airflow/dags/poc.py for tasks to queue
+[2019-11-07 17:44:56,990] {logging_mixin.py:112} INFO - [2019-11-07 17:44:56,990] {dagbag.py:92} INFO - Filling up the DagBag from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:44:56,999] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:44:57,029] {scheduler_job.py:161} INFO - Processing /home/vlad/airflow/dags/poc.py took 0.044 seconds
+[2019-11-07 17:44:58,992] {scheduler_job.py:153} INFO - Started process (PID=9347) to work on /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:44:58,998] {scheduler_job.py:1528} INFO - Processing file /home/vlad/airflow/dags/poc.py for tasks to queue
+[2019-11-07 17:44:58,998] {logging_mixin.py:112} INFO - [2019-11-07 17:44:58,998] {dagbag.py:92} INFO - Filling up the DagBag from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:44:59,007] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:44:59,037] {scheduler_job.py:161} INFO - Processing /home/vlad/airflow/dags/poc.py took 0.045 seconds
+[2019-11-07 17:45:01,015] {scheduler_job.py:153} INFO - Started process (PID=9348) to work on /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:45:01,031] {scheduler_job.py:1528} INFO - Processing file /home/vlad/airflow/dags/poc.py for tasks to queue
+[2019-11-07 17:45:01,032] {logging_mixin.py:112} INFO - [2019-11-07 17:45:01,032] {dagbag.py:92} INFO - Filling up the DagBag from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:45:01,051] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:45:01,097] {scheduler_job.py:161} INFO - Processing /home/vlad/airflow/dags/poc.py took 0.082 seconds
+[2019-11-07 17:45:02,991] {scheduler_job.py:153} INFO - Started process (PID=9349) to work on /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:45:02,996] {scheduler_job.py:1528} INFO - Processing file /home/vlad/airflow/dags/poc.py for tasks to queue
+[2019-11-07 17:45:02,996] {logging_mixin.py:112} INFO - [2019-11-07 17:45:02,996] {dagbag.py:92} INFO - Filling up the DagBag from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:45:03,005] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:45:03,038] {scheduler_job.py:1260} INFO - Processing tutorial
+[2019-11-07 17:45:03,083] {scheduler_job.py:1270} INFO - Created <DagRun tutorial @ 2015-06-01T00:00:00+00:00: scheduled__2015-06-01T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:45:03,087] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-01 00:00:00+00:00: scheduled__2015-06-01T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:45:03,102] {scheduler_job.py:440} INFO - Skipping SLA check for <DAG: tutorial> because no tasks in DAG have SLAs
+[2019-11-07 17:45:03,106] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: tutorial.print_date 2015-06-01 00:00:00+00:00 [scheduled]> in ORM
+[2019-11-07 17:45:03,120] {scheduler_job.py:161} INFO - Processing /home/vlad/airflow/dags/poc.py took 0.129 seconds
+[2019-11-07 17:45:05,007] {scheduler_job.py:153} INFO - Started process (PID=9351) to work on /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:45:05,012] {scheduler_job.py:1528} INFO - Processing file /home/vlad/airflow/dags/poc.py for tasks to queue
+[2019-11-07 17:45:05,013] {logging_mixin.py:112} INFO - [2019-11-07 17:45:05,012] {dagbag.py:92} INFO - Filling up the DagBag from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:45:05,024] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:45:05,060] {scheduler_job.py:1260} INFO - Processing tutorial
+[2019-11-07 17:45:05,093] {scheduler_job.py:1270} INFO - Created <DagRun tutorial @ 2015-06-02 00:00:00+00:00: scheduled__2015-06-02T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:45:05,098] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-01 00:00:00+00:00: scheduled__2015-06-01T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:45:05,104] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-02 00:00:00+00:00: scheduled__2015-06-02T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:45:05,129] {scheduler_job.py:440} INFO - Skipping SLA check for <DAG: tutorial> because no tasks in DAG have SLAs
+[2019-11-07 17:45:05,133] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: tutorial.print_date 2015-06-02 00:00:00+00:00 [scheduled]> in ORM
+[2019-11-07 17:45:05,146] {scheduler_job.py:161} INFO - Processing /home/vlad/airflow/dags/poc.py took 0.139 seconds
+[2019-11-07 17:45:19,016] {scheduler_job.py:153} INFO - Started process (PID=9379) to work on /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:45:19,023] {scheduler_job.py:1528} INFO - Processing file /home/vlad/airflow/dags/poc.py for tasks to queue
+[2019-11-07 17:45:19,023] {logging_mixin.py:112} INFO - [2019-11-07 17:45:19,023] {dagbag.py:92} INFO - Filling up the DagBag from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:45:19,033] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:45:19,069] {scheduler_job.py:1260} INFO - Processing tutorial
+[2019-11-07 17:45:19,102] {scheduler_job.py:1270} INFO - Created <DagRun tutorial @ 2015-06-03 00:00:00+00:00: scheduled__2015-06-03T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:45:19,107] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-01 00:00:00+00:00: scheduled__2015-06-01T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:45:19,116] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-02 00:00:00+00:00: scheduled__2015-06-02T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:45:19,126] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-03 00:00:00+00:00: scheduled__2015-06-03T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:45:19,133] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2019-11-07 16:45:05.910479+00:00: manual__2019-11-07T16:45:05.910479+00:00, externally triggered: True>
+[2019-11-07 17:45:19,172] {scheduler_job.py:440} INFO - Skipping SLA check for <DAG: tutorial> because no tasks in DAG have SLAs
+[2019-11-07 17:45:19,176] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: tutorial.sleep 2015-06-01 00:00:00+00:00 [scheduled]> in ORM
+[2019-11-07 17:45:19,179] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: tutorial.templated 2015-06-01 00:00:00+00:00 [scheduled]> in ORM
+[2019-11-07 17:45:19,182] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: tutorial.print_date 2015-06-03 00:00:00+00:00 [scheduled]> in ORM
+[2019-11-07 17:45:19,185] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: tutorial.print_date 2019-11-07 16:45:05.910479+00:00 [scheduled]> in ORM
+[2019-11-07 17:45:19,200] {scheduler_job.py:161} INFO - Processing /home/vlad/airflow/dags/poc.py took 0.184 seconds
+[2019-11-07 17:45:32,551] {scheduler_job.py:153} INFO - Started process (PID=9415) to work on /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:45:32,559] {scheduler_job.py:1528} INFO - Processing file /home/vlad/airflow/dags/poc.py for tasks to queue
+[2019-11-07 17:45:32,560] {logging_mixin.py:112} INFO - [2019-11-07 17:45:32,560] {dagbag.py:92} INFO - Filling up the DagBag from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:45:32,571] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:45:32,620] {scheduler_job.py:1260} INFO - Processing tutorial
+[2019-11-07 17:45:32,690] {scheduler_job.py:1270} INFO - Created <DagRun tutorial @ 2015-06-04 00:00:00+00:00: scheduled__2015-06-04T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:45:32,702] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-01 00:00:00+00:00: scheduled__2015-06-01T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:45:32,721] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-02 00:00:00+00:00: scheduled__2015-06-02T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:45:32,736] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-03 00:00:00+00:00: scheduled__2015-06-03T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:45:32,748] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-04 00:00:00+00:00: scheduled__2015-06-04T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:45:32,760] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2019-11-07 16:45:05.910479+00:00: manual__2019-11-07T16:45:05.910479+00:00, externally triggered: True>
+[2019-11-07 17:45:32,826] {scheduler_job.py:440} INFO - Skipping SLA check for <DAG: tutorial> because no tasks in DAG have SLAs
+[2019-11-07 17:45:32,832] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: tutorial.sleep 2015-06-02 00:00:00+00:00 [scheduled]> in ORM
+[2019-11-07 17:45:32,838] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: tutorial.templated 2015-06-02 00:00:00+00:00 [scheduled]> in ORM
+[2019-11-07 17:45:32,842] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: tutorial.print_date 2015-06-04 00:00:00+00:00 [scheduled]> in ORM
+[2019-11-07 17:45:32,860] {scheduler_job.py:161} INFO - Processing /home/vlad/airflow/dags/poc.py took 0.309 seconds
+[2019-11-07 17:45:33,120] {scheduler_job.py:153} INFO - Started process (PID=9416) to work on /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:45:33,128] {scheduler_job.py:1528} INFO - Processing file /home/vlad/airflow/dags/poc.py for tasks to queue
+[2019-11-07 17:45:33,129] {logging_mixin.py:112} INFO - [2019-11-07 17:45:33,129] {dagbag.py:92} INFO - Filling up the DagBag from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:45:33,145] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:45:33,216] {scheduler_job.py:1260} INFO - Processing tutorial
+[2019-11-07 17:45:33,289] {scheduler_job.py:1270} INFO - Created <DagRun tutorial @ 2015-06-05 00:00:00+00:00: scheduled__2015-06-05T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:45:33,306] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-01 00:00:00+00:00: scheduled__2015-06-01T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:45:33,336] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-02 00:00:00+00:00: scheduled__2015-06-02T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:45:33,359] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-03 00:00:00+00:00: scheduled__2015-06-03T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:45:33,378] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-04 00:00:00+00:00: scheduled__2015-06-04T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:45:33,397] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-05 00:00:00+00:00: scheduled__2015-06-05T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:45:33,413] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2019-11-07 16:45:05.910479+00:00: manual__2019-11-07T16:45:05.910479+00:00, externally triggered: True>
+[2019-11-07 17:45:33,506] {scheduler_job.py:440} INFO - Skipping SLA check for <DAG: tutorial> because no tasks in DAG have SLAs
+[2019-11-07 17:45:33,513] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: tutorial.print_date 2015-06-05 00:00:00+00:00 [scheduled]> in ORM
+[2019-11-07 17:45:33,537] {scheduler_job.py:161} INFO - Processing /home/vlad/airflow/dags/poc.py took 0.417 seconds
+[2019-11-07 17:46:12,596] {scheduler_job.py:153} INFO - Started process (PID=9507) to work on /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:46:12,606] {scheduler_job.py:1528} INFO - Processing file /home/vlad/airflow/dags/poc.py for tasks to queue
+[2019-11-07 17:46:12,607] {logging_mixin.py:112} INFO - [2019-11-07 17:46:12,607] {dagbag.py:92} INFO - Filling up the DagBag from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:46:12,627] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:46:12,713] {scheduler_job.py:1260} INFO - Processing tutorial
+[2019-11-07 17:46:12,775] {scheduler_job.py:1270} INFO - Created <DagRun tutorial @ 2015-06-06 00:00:00+00:00: scheduled__2015-06-06T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:46:12,784] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-01 00:00:00+00:00: scheduled__2015-06-01T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:46:12,806] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-02 00:00:00+00:00: scheduled__2015-06-02T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:46:12,816] {logging_mixin.py:112} INFO - [2019-11-07 17:46:12,816] {dagrun.py:317} INFO - Marking run <DagRun tutorial @ 2015-06-02 00:00:00+00:00: scheduled__2015-06-02T00:00:00+00:00, externally triggered: False> successful
+[2019-11-07 17:46:12,828] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-03 00:00:00+00:00: scheduled__2015-06-03T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:46:12,843] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-04 00:00:00+00:00: scheduled__2015-06-04T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:46:12,861] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-05 00:00:00+00:00: scheduled__2015-06-05T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:46:12,876] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-06 00:00:00+00:00: scheduled__2015-06-06T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:46:12,899] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2019-11-07 16:45:05.910479+00:00: manual__2019-11-07T16:45:05.910479+00:00, externally triggered: True>
+[2019-11-07 17:46:13,017] {scheduler_job.py:440} INFO - Skipping SLA check for <DAG: tutorial> because no tasks in DAG have SLAs
+[2019-11-07 17:46:13,022] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: tutorial.sleep 2015-06-04 00:00:00+00:00 [scheduled]> in ORM
+[2019-11-07 17:46:13,026] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: tutorial.templated 2015-06-04 00:00:00+00:00 [scheduled]> in ORM
+[2019-11-07 17:46:13,031] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: tutorial.print_date 2015-06-06 00:00:00+00:00 [scheduled]> in ORM
+[2019-11-07 17:46:13,047] {scheduler_job.py:161} INFO - Processing /home/vlad/airflow/dags/poc.py took 0.451 seconds
+[2019-11-07 17:46:26,703] {scheduler_job.py:153} INFO - Started process (PID=9535) to work on /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:46:26,708] {scheduler_job.py:1528} INFO - Processing file /home/vlad/airflow/dags/poc.py for tasks to queue
+[2019-11-07 17:46:26,709] {logging_mixin.py:112} INFO - [2019-11-07 17:46:26,709] {dagbag.py:92} INFO - Filling up the DagBag from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:46:26,724] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:46:26,782] {scheduler_job.py:1260} INFO - Processing tutorial
+[2019-11-07 17:46:26,845] {scheduler_job.py:1270} INFO - Created <DagRun tutorial @ 2015-06-07 00:00:00+00:00: scheduled__2015-06-07T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:46:26,857] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-01 00:00:00+00:00: scheduled__2015-06-01T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:46:26,876] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-03 00:00:00+00:00: scheduled__2015-06-03T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:46:26,889] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-04 00:00:00+00:00: scheduled__2015-06-04T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:46:26,906] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-05 00:00:00+00:00: scheduled__2015-06-05T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:46:26,922] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-06 00:00:00+00:00: scheduled__2015-06-06T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:46:26,935] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-07 00:00:00+00:00: scheduled__2015-06-07T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:46:26,946] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2019-11-07 16:45:05.910479+00:00: manual__2019-11-07T16:45:05.910479+00:00, externally triggered: True>
+[2019-11-07 17:46:27,082] {scheduler_job.py:440} INFO - Skipping SLA check for <DAG: tutorial> because no tasks in DAG have SLAs
+[2019-11-07 17:46:27,093] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: tutorial.sleep 2015-06-05 00:00:00+00:00 [scheduled]> in ORM
+[2019-11-07 17:46:27,108] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: tutorial.templated 2015-06-05 00:00:00+00:00 [scheduled]> in ORM
+[2019-11-07 17:46:27,120] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: tutorial.print_date 2015-06-07 00:00:00+00:00 [scheduled]> in ORM
+[2019-11-07 17:46:27,151] {scheduler_job.py:161} INFO - Processing /home/vlad/airflow/dags/poc.py took 0.449 seconds
+[2019-11-07 17:46:27,288] {scheduler_job.py:153} INFO - Started process (PID=9536) to work on /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:46:27,297] {scheduler_job.py:1528} INFO - Processing file /home/vlad/airflow/dags/poc.py for tasks to queue
+[2019-11-07 17:46:27,298] {logging_mixin.py:112} INFO - [2019-11-07 17:46:27,298] {dagbag.py:92} INFO - Filling up the DagBag from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:46:27,320] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:46:27,382] {scheduler_job.py:1260} INFO - Processing tutorial
+[2019-11-07 17:46:27,438] {scheduler_job.py:1270} INFO - Created <DagRun tutorial @ 2015-06-08 00:00:00+00:00: scheduled__2015-06-08T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:46:27,449] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-01 00:00:00+00:00: scheduled__2015-06-01T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:46:27,473] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-03 00:00:00+00:00: scheduled__2015-06-03T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:46:27,496] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-04 00:00:00+00:00: scheduled__2015-06-04T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:46:27,530] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-05 00:00:00+00:00: scheduled__2015-06-05T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:46:27,548] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-06 00:00:00+00:00: scheduled__2015-06-06T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:46:27,564] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-07 00:00:00+00:00: scheduled__2015-06-07T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:46:27,588] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-08 00:00:00+00:00: scheduled__2015-06-08T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:46:27,606] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2019-11-07 16:45:05.910479+00:00: manual__2019-11-07T16:45:05.910479+00:00, externally triggered: True>
+[2019-11-07 17:46:27,768] {scheduler_job.py:440} INFO - Skipping SLA check for <DAG: tutorial> because no tasks in DAG have SLAs
+[2019-11-07 17:46:27,778] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: tutorial.print_date 2015-06-08 00:00:00+00:00 [scheduled]> in ORM
+[2019-11-07 17:46:27,800] {scheduler_job.py:161} INFO - Processing /home/vlad/airflow/dags/poc.py took 0.513 seconds
+[2019-11-07 17:47:06,593] {scheduler_job.py:153} INFO - Started process (PID=9634) to work on /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:47:06,604] {scheduler_job.py:1528} INFO - Processing file /home/vlad/airflow/dags/poc.py for tasks to queue
+[2019-11-07 17:47:06,606] {logging_mixin.py:112} INFO - [2019-11-07 17:47:06,605] {dagbag.py:92} INFO - Filling up the DagBag from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:47:06,626] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:47:06,701] {scheduler_job.py:1260} INFO - Processing tutorial
+[2019-11-07 17:47:06,768] {scheduler_job.py:1270} INFO - Created <DagRun tutorial @ 2015-06-09 00:00:00+00:00: scheduled__2015-06-09T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:47:06,780] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-01 00:00:00+00:00: scheduled__2015-06-01T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:47:06,802] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-03 00:00:00+00:00: scheduled__2015-06-03T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:47:06,819] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-04 00:00:00+00:00: scheduled__2015-06-04T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:47:06,842] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-05 00:00:00+00:00: scheduled__2015-06-05T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:47:06,858] {logging_mixin.py:112} INFO - [2019-11-07 17:47:06,857] {dagrun.py:317} INFO - Marking run <DagRun tutorial @ 2015-06-05 00:00:00+00:00: scheduled__2015-06-05T00:00:00+00:00, externally triggered: False> successful
+[2019-11-07 17:47:06,873] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-06 00:00:00+00:00: scheduled__2015-06-06T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:47:06,891] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-07 00:00:00+00:00: scheduled__2015-06-07T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:47:06,916] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-08 00:00:00+00:00: scheduled__2015-06-08T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:47:06,932] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-09 00:00:00+00:00: scheduled__2015-06-09T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:47:06,949] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2019-11-07 16:45:05.910479+00:00: manual__2019-11-07T16:45:05.910479+00:00, externally triggered: True>
+[2019-11-07 17:47:07,075] {scheduler_job.py:440} INFO - Skipping SLA check for <DAG: tutorial> because no tasks in DAG have SLAs
+[2019-11-07 17:47:07,082] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: tutorial.sleep 2015-06-07 00:00:00+00:00 [scheduled]> in ORM
+[2019-11-07 17:47:07,088] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: tutorial.templated 2015-06-07 00:00:00+00:00 [scheduled]> in ORM
+[2019-11-07 17:47:07,092] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: tutorial.print_date 2015-06-09 00:00:00+00:00 [scheduled]> in ORM
+[2019-11-07 17:47:07,115] {scheduler_job.py:161} INFO - Processing /home/vlad/airflow/dags/poc.py took 0.522 seconds
+[2019-11-07 17:47:20,601] {scheduler_job.py:153} INFO - Started process (PID=9662) to work on /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:47:20,607] {scheduler_job.py:1528} INFO - Processing file /home/vlad/airflow/dags/poc.py for tasks to queue
+[2019-11-07 17:47:20,608] {logging_mixin.py:112} INFO - [2019-11-07 17:47:20,608] {dagbag.py:92} INFO - Filling up the DagBag from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:47:20,619] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:47:20,656] {scheduler_job.py:1260} INFO - Processing tutorial
+[2019-11-07 17:47:20,695] {scheduler_job.py:1270} INFO - Created <DagRun tutorial @ 2015-06-10 00:00:00+00:00: scheduled__2015-06-10T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:47:20,700] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-01 00:00:00+00:00: scheduled__2015-06-01T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:47:20,712] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-03 00:00:00+00:00: scheduled__2015-06-03T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:47:20,719] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-04 00:00:00+00:00: scheduled__2015-06-04T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:47:20,730] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-06 00:00:00+00:00: scheduled__2015-06-06T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:47:20,738] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-07 00:00:00+00:00: scheduled__2015-06-07T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:47:20,748] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-08 00:00:00+00:00: scheduled__2015-06-08T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:47:20,760] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-09 00:00:00+00:00: scheduled__2015-06-09T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:47:20,767] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-10 00:00:00+00:00: scheduled__2015-06-10T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:47:20,775] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2019-11-07 16:45:05.910479+00:00: manual__2019-11-07T16:45:05.910479+00:00, externally triggered: True>
+[2019-11-07 17:47:20,843] {scheduler_job.py:440} INFO - Skipping SLA check for <DAG: tutorial> because no tasks in DAG have SLAs
+[2019-11-07 17:47:20,847] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: tutorial.sleep 2015-06-08 00:00:00+00:00 [scheduled]> in ORM
+[2019-11-07 17:47:20,851] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: tutorial.templated 2015-06-08 00:00:00+00:00 [scheduled]> in ORM
+[2019-11-07 17:47:20,854] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: tutorial.print_date 2015-06-10 00:00:00+00:00 [scheduled]> in ORM
+[2019-11-07 17:47:20,871] {scheduler_job.py:161} INFO - Processing /home/vlad/airflow/dags/poc.py took 0.270 seconds
+[2019-11-07 17:47:20,973] {scheduler_job.py:153} INFO - Started process (PID=9663) to work on /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:47:20,980] {scheduler_job.py:1528} INFO - Processing file /home/vlad/airflow/dags/poc.py for tasks to queue
+[2019-11-07 17:47:20,981] {logging_mixin.py:112} INFO - [2019-11-07 17:47:20,981] {dagbag.py:92} INFO - Filling up the DagBag from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:47:20,993] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:47:21,035] {scheduler_job.py:1260} INFO - Processing tutorial
+[2019-11-07 17:47:21,079] {scheduler_job.py:1270} INFO - Created <DagRun tutorial @ 2015-06-11 00:00:00+00:00: scheduled__2015-06-11T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:47:21,086] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-01 00:00:00+00:00: scheduled__2015-06-01T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:47:21,098] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-03 00:00:00+00:00: scheduled__2015-06-03T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:47:21,107] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-04 00:00:00+00:00: scheduled__2015-06-04T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:47:21,121] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-06 00:00:00+00:00: scheduled__2015-06-06T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:47:21,132] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-07 00:00:00+00:00: scheduled__2015-06-07T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:47:21,147] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-08 00:00:00+00:00: scheduled__2015-06-08T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:47:21,165] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-09 00:00:00+00:00: scheduled__2015-06-09T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:47:21,174] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-10 00:00:00+00:00: scheduled__2015-06-10T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:47:21,183] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-11 00:00:00+00:00: scheduled__2015-06-11T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:47:21,192] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2019-11-07 16:45:05.910479+00:00: manual__2019-11-07T16:45:05.910479+00:00, externally triggered: True>
+[2019-11-07 17:47:21,281] {scheduler_job.py:440} INFO - Skipping SLA check for <DAG: tutorial> because no tasks in DAG have SLAs
+[2019-11-07 17:47:21,286] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: tutorial.print_date 2015-06-11 00:00:00+00:00 [scheduled]> in ORM
+[2019-11-07 17:47:21,303] {scheduler_job.py:161} INFO - Processing /home/vlad/airflow/dags/poc.py took 0.330 seconds
+[2019-11-07 17:47:59,404] {scheduler_job.py:153} INFO - Started process (PID=9753) to work on /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:47:59,410] {scheduler_job.py:1528} INFO - Processing file /home/vlad/airflow/dags/poc.py for tasks to queue
+[2019-11-07 17:47:59,411] {logging_mixin.py:112} INFO - [2019-11-07 17:47:59,410] {dagbag.py:92} INFO - Filling up the DagBag from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:47:59,422] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:47:59,463] {scheduler_job.py:1260} INFO - Processing tutorial
+[2019-11-07 17:47:59,500] {scheduler_job.py:1270} INFO - Created <DagRun tutorial @ 2015-06-12 00:00:00+00:00: scheduled__2015-06-12T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:47:59,505] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-01 00:00:00+00:00: scheduled__2015-06-01T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:47:59,515] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-03 00:00:00+00:00: scheduled__2015-06-03T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:47:59,521] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-04 00:00:00+00:00: scheduled__2015-06-04T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:47:59,530] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-06 00:00:00+00:00: scheduled__2015-06-06T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:47:59,538] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-07 00:00:00+00:00: scheduled__2015-06-07T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:47:59,546] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-08 00:00:00+00:00: scheduled__2015-06-08T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:47:59,555] {logging_mixin.py:112} INFO - [2019-11-07 17:47:59,555] {dagrun.py:317} INFO - Marking run <DagRun tutorial @ 2015-06-08 00:00:00+00:00: scheduled__2015-06-08T00:00:00+00:00, externally triggered: False> successful
+[2019-11-07 17:47:59,563] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-09 00:00:00+00:00: scheduled__2015-06-09T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:47:59,570] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-10 00:00:00+00:00: scheduled__2015-06-10T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:47:59,578] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-11 00:00:00+00:00: scheduled__2015-06-11T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:47:59,585] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-12 00:00:00+00:00: scheduled__2015-06-12T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:47:59,592] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2019-11-07 16:45:05.910479+00:00: manual__2019-11-07T16:45:05.910479+00:00, externally triggered: True>
+[2019-11-07 17:47:59,669] {scheduler_job.py:440} INFO - Skipping SLA check for <DAG: tutorial> because no tasks in DAG have SLAs
+[2019-11-07 17:47:59,673] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: tutorial.sleep 2015-06-10 00:00:00+00:00 [scheduled]> in ORM
+[2019-11-07 17:47:59,676] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: tutorial.templated 2015-06-10 00:00:00+00:00 [scheduled]> in ORM
+[2019-11-07 17:47:59,679] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: tutorial.print_date 2015-06-12 00:00:00+00:00 [scheduled]> in ORM
+[2019-11-07 17:47:59,694] {scheduler_job.py:161} INFO - Processing /home/vlad/airflow/dags/poc.py took 0.290 seconds
+[2019-11-07 17:48:12,952] {scheduler_job.py:153} INFO - Started process (PID=9790) to work on /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:48:12,957] {scheduler_job.py:1528} INFO - Processing file /home/vlad/airflow/dags/poc.py for tasks to queue
+[2019-11-07 17:48:12,958] {logging_mixin.py:112} INFO - [2019-11-07 17:48:12,958] {dagbag.py:92} INFO - Filling up the DagBag from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:48:12,968] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:48:13,005] {scheduler_job.py:1260} INFO - Processing tutorial
+[2019-11-07 17:48:13,043] {scheduler_job.py:1270} INFO - Created <DagRun tutorial @ 2015-06-13 00:00:00+00:00: scheduled__2015-06-13T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:13,048] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-01 00:00:00+00:00: scheduled__2015-06-01T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:13,059] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-03 00:00:00+00:00: scheduled__2015-06-03T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:13,067] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-04 00:00:00+00:00: scheduled__2015-06-04T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:13,077] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-06 00:00:00+00:00: scheduled__2015-06-06T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:13,085] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-07 00:00:00+00:00: scheduled__2015-06-07T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:13,095] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-09 00:00:00+00:00: scheduled__2015-06-09T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:13,105] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-10 00:00:00+00:00: scheduled__2015-06-10T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:13,115] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-11 00:00:00+00:00: scheduled__2015-06-11T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:13,126] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-12 00:00:00+00:00: scheduled__2015-06-12T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:13,133] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-13 00:00:00+00:00: scheduled__2015-06-13T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:13,143] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2019-11-07 16:45:05.910479+00:00: manual__2019-11-07T16:45:05.910479+00:00, externally triggered: True>
+[2019-11-07 17:48:13,227] {scheduler_job.py:440} INFO - Skipping SLA check for <DAG: tutorial> because no tasks in DAG have SLAs
+[2019-11-07 17:48:13,231] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: tutorial.sleep 2015-06-11 00:00:00+00:00 [scheduled]> in ORM
+[2019-11-07 17:48:13,237] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: tutorial.templated 2015-06-11 00:00:00+00:00 [scheduled]> in ORM
+[2019-11-07 17:48:13,241] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: tutorial.print_date 2015-06-13 00:00:00+00:00 [scheduled]> in ORM
+[2019-11-07 17:48:13,258] {scheduler_job.py:161} INFO - Processing /home/vlad/airflow/dags/poc.py took 0.306 seconds
+[2019-11-07 17:48:13,367] {scheduler_job.py:153} INFO - Started process (PID=9791) to work on /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:48:13,373] {scheduler_job.py:1528} INFO - Processing file /home/vlad/airflow/dags/poc.py for tasks to queue
+[2019-11-07 17:48:13,374] {logging_mixin.py:112} INFO - [2019-11-07 17:48:13,373] {dagbag.py:92} INFO - Filling up the DagBag from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:48:13,383] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:48:13,420] {scheduler_job.py:1260} INFO - Processing tutorial
+[2019-11-07 17:48:13,457] {scheduler_job.py:1270} INFO - Created <DagRun tutorial @ 2015-06-14 00:00:00+00:00: scheduled__2015-06-14T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:13,463] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-01 00:00:00+00:00: scheduled__2015-06-01T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:13,472] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-03 00:00:00+00:00: scheduled__2015-06-03T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:13,477] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-04 00:00:00+00:00: scheduled__2015-06-04T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:13,486] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-06 00:00:00+00:00: scheduled__2015-06-06T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:13,492] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-07 00:00:00+00:00: scheduled__2015-06-07T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:13,500] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-09 00:00:00+00:00: scheduled__2015-06-09T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:13,508] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-10 00:00:00+00:00: scheduled__2015-06-10T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:13,516] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-11 00:00:00+00:00: scheduled__2015-06-11T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:13,525] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-12 00:00:00+00:00: scheduled__2015-06-12T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:13,531] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-13 00:00:00+00:00: scheduled__2015-06-13T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:13,538] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-14 00:00:00+00:00: scheduled__2015-06-14T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:13,544] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2019-11-07 16:45:05.910479+00:00: manual__2019-11-07T16:45:05.910479+00:00, externally triggered: True>
+[2019-11-07 17:48:13,621] {scheduler_job.py:440} INFO - Skipping SLA check for <DAG: tutorial> because no tasks in DAG have SLAs
+[2019-11-07 17:48:13,627] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: tutorial.print_date 2015-06-14 00:00:00+00:00 [scheduled]> in ORM
+[2019-11-07 17:48:13,644] {scheduler_job.py:161} INFO - Processing /home/vlad/airflow/dags/poc.py took 0.277 seconds
+[2019-11-07 17:48:15,314] {scheduler_job.py:153} INFO - Started process (PID=9792) to work on /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:48:15,321] {scheduler_job.py:1528} INFO - Processing file /home/vlad/airflow/dags/poc.py for tasks to queue
+[2019-11-07 17:48:15,322] {logging_mixin.py:112} INFO - [2019-11-07 17:48:15,322] {dagbag.py:92} INFO - Filling up the DagBag from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:48:15,339] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:48:15,410] {scheduler_job.py:1260} INFO - Processing tutorial
+[2019-11-07 17:48:15,482] {scheduler_job.py:1270} INFO - Created <DagRun tutorial @ 2015-06-15 00:00:00+00:00: scheduled__2015-06-15T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:15,494] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-01 00:00:00+00:00: scheduled__2015-06-01T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:15,518] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-03 00:00:00+00:00: scheduled__2015-06-03T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:15,535] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-04 00:00:00+00:00: scheduled__2015-06-04T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:15,556] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-06 00:00:00+00:00: scheduled__2015-06-06T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:15,572] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-07 00:00:00+00:00: scheduled__2015-06-07T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:15,593] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-09 00:00:00+00:00: scheduled__2015-06-09T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:15,614] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-10 00:00:00+00:00: scheduled__2015-06-10T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:15,637] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-11 00:00:00+00:00: scheduled__2015-06-11T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:15,661] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-12 00:00:00+00:00: scheduled__2015-06-12T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:15,676] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-13 00:00:00+00:00: scheduled__2015-06-13T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:15,695] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-14 00:00:00+00:00: scheduled__2015-06-14T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:15,709] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-15 00:00:00+00:00: scheduled__2015-06-15T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:15,729] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2019-11-07 16:45:05.910479+00:00: manual__2019-11-07T16:45:05.910479+00:00, externally triggered: True>
+[2019-11-07 17:48:15,913] {scheduler_job.py:440} INFO - Skipping SLA check for <DAG: tutorial> because no tasks in DAG have SLAs
+[2019-11-07 17:48:15,922] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: tutorial.print_date 2015-06-15 00:00:00+00:00 [scheduled]> in ORM
+[2019-11-07 17:48:15,948] {scheduler_job.py:161} INFO - Processing /home/vlad/airflow/dags/poc.py took 0.634 seconds
+[2019-11-07 17:48:54,294] {scheduler_job.py:153} INFO - Started process (PID=9883) to work on /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:48:54,299] {scheduler_job.py:1528} INFO - Processing file /home/vlad/airflow/dags/poc.py for tasks to queue
+[2019-11-07 17:48:54,300] {logging_mixin.py:112} INFO - [2019-11-07 17:48:54,300] {dagbag.py:92} INFO - Filling up the DagBag from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:48:54,312] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:48:54,349] {scheduler_job.py:1260} INFO - Processing tutorial
+[2019-11-07 17:48:54,388] {scheduler_job.py:1270} INFO - Created <DagRun tutorial @ 2015-06-16 00:00:00+00:00: scheduled__2015-06-16T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:54,394] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-01 00:00:00+00:00: scheduled__2015-06-01T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:54,404] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-03 00:00:00+00:00: scheduled__2015-06-03T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:54,410] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-04 00:00:00+00:00: scheduled__2015-06-04T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:54,419] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-06 00:00:00+00:00: scheduled__2015-06-06T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:54,426] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-07 00:00:00+00:00: scheduled__2015-06-07T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:54,436] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-09 00:00:00+00:00: scheduled__2015-06-09T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:54,445] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-10 00:00:00+00:00: scheduled__2015-06-10T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:54,455] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-11 00:00:00+00:00: scheduled__2015-06-11T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:54,465] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-12 00:00:00+00:00: scheduled__2015-06-12T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:54,473] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-13 00:00:00+00:00: scheduled__2015-06-13T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:54,483] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-14 00:00:00+00:00: scheduled__2015-06-14T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:54,492] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-15 00:00:00+00:00: scheduled__2015-06-15T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:54,500] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-16 00:00:00+00:00: scheduled__2015-06-16T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:48:54,507] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2019-11-07 16:45:05.910479+00:00: manual__2019-11-07T16:45:05.910479+00:00, externally triggered: True>
+[2019-11-07 17:48:54,620] {scheduler_job.py:440} INFO - Skipping SLA check for <DAG: tutorial> because no tasks in DAG have SLAs
+[2019-11-07 17:48:54,625] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: tutorial.sleep 2015-06-13 00:00:00+00:00 [scheduled]> in ORM
+[2019-11-07 17:48:54,629] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: tutorial.templated 2015-06-13 00:00:00+00:00 [scheduled]> in ORM
+[2019-11-07 17:48:54,633] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: tutorial.sleep 2015-06-14 00:00:00+00:00 [scheduled]> in ORM
+[2019-11-07 17:48:54,636] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: tutorial.templated 2015-06-14 00:00:00+00:00 [scheduled]> in ORM
+[2019-11-07 17:48:54,640] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: tutorial.print_date 2015-06-16 00:00:00+00:00 [scheduled]> in ORM
+[2019-11-07 17:48:54,657] {scheduler_job.py:161} INFO - Processing /home/vlad/airflow/dags/poc.py took 0.363 seconds
+[2019-11-07 17:49:20,494] {scheduler_job.py:153} INFO - Started process (PID=9946) to work on /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:49:20,502] {scheduler_job.py:1528} INFO - Processing file /home/vlad/airflow/dags/poc.py for tasks to queue
+[2019-11-07 17:49:20,503] {logging_mixin.py:112} INFO - [2019-11-07 17:49:20,503] {dagbag.py:92} INFO - Filling up the DagBag from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:49:20,527] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:49:20,599] {scheduler_job.py:1260} INFO - Processing tutorial
+[2019-11-07 17:49:20,677] {scheduler_job.py:165} ERROR - Got an exception! Propagating...
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/sqlalchemy/engine/base.py", line 761, in _commit_impl
+    self.engine.dialect.do_commit(self.connection)
+  File "/usr/local/lib/python3.6/dist-packages/sqlalchemy/engine/default.py", line 533, in do_commit
+    dbapi_connection.commit()
+sqlite3.OperationalError: disk I/O error
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/airflow/jobs/scheduler_job.py", line 157, in _run_file_processor
+    pickle_dags)
+  File "/usr/local/lib/python3.6/dist-packages/airflow/utils/db.py", line 74, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/airflow/jobs/scheduler_job.py", line 1577, in process_file
+    self._process_dags(dagbag, dags, ti_keys_to_schedule)
+  File "/usr/local/lib/python3.6/dist-packages/airflow/jobs/scheduler_job.py", line 1262, in _process_dags
+    dag_run = self.create_dag_run(dag)
+  File "/usr/local/lib/python3.6/dist-packages/airflow/utils/db.py", line 74, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/airflow/jobs/scheduler_job.py", line 722, in create_dag_run
+    external_trigger=False
+  File "/usr/local/lib/python3.6/dist-packages/airflow/utils/db.py", line 74, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/airflow/models/dag.py", line 1338, in create_dagrun
+    run.verify_integrity(session=session)
+  File "/usr/local/lib/python3.6/dist-packages/airflow/utils/db.py", line 70, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/airflow/models/dagrun.py", line 399, in verify_integrity
+    session.commit()
+  File "/usr/local/lib/python3.6/dist-packages/sqlalchemy/orm/session.py", line 1027, in commit
+    self.transaction.commit()
+  File "/usr/local/lib/python3.6/dist-packages/sqlalchemy/orm/session.py", line 498, in commit
+    t[1].commit()
+  File "/usr/local/lib/python3.6/dist-packages/sqlalchemy/engine/base.py", line 1724, in commit
+    self._do_commit()
+  File "/usr/local/lib/python3.6/dist-packages/sqlalchemy/engine/base.py", line 1755, in _do_commit
+    self.connection._commit_impl()
+  File "/usr/local/lib/python3.6/dist-packages/sqlalchemy/engine/base.py", line 763, in _commit_impl
+    self._handle_dbapi_exception(e, None, None, None, None)
+  File "/usr/local/lib/python3.6/dist-packages/sqlalchemy/engine/base.py", line 1473, in _handle_dbapi_exception
+    util.raise_from_cause(sqlalchemy_exception, exc_info)
+  File "/usr/local/lib/python3.6/dist-packages/sqlalchemy/util/compat.py", line 398, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/usr/local/lib/python3.6/dist-packages/sqlalchemy/util/compat.py", line 152, in reraise
+    raise value.with_traceback(tb)
+  File "/usr/local/lib/python3.6/dist-packages/sqlalchemy/engine/base.py", line 761, in _commit_impl
+    self.engine.dialect.do_commit(self.connection)
+  File "/usr/local/lib/python3.6/dist-packages/sqlalchemy/engine/default.py", line 533, in do_commit
+    dbapi_connection.commit()
+sqlalchemy.exc.OperationalError: (sqlite3.OperationalError) disk I/O error
+(Background on this error at: http://sqlalche.me/e/e3q8)
+[2019-11-07 17:49:29,159] {scheduler_job.py:153} INFO - Started process (PID=9983) to work on /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:49:29,164] {scheduler_job.py:1528} INFO - Processing file /home/vlad/airflow/dags/poc.py for tasks to queue
+[2019-11-07 17:49:29,165] {logging_mixin.py:112} INFO - [2019-11-07 17:49:29,165] {dagbag.py:92} INFO - Filling up the DagBag from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:49:29,174] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:49:29,206] {scheduler_job.py:1260} INFO - Processing tutorial
+[2019-11-07 17:49:29,240] {scheduler_job.py:1270} INFO - Created <DagRun tutorial @ 2015-06-18 00:00:00+00:00: scheduled__2015-06-18T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:49:29,245] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-01 00:00:00+00:00: scheduled__2015-06-01T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:49:29,254] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-03 00:00:00+00:00: scheduled__2015-06-03T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:49:29,260] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-04 00:00:00+00:00: scheduled__2015-06-04T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:49:29,269] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-06 00:00:00+00:00: scheduled__2015-06-06T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:49:29,274] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-07 00:00:00+00:00: scheduled__2015-06-07T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:49:29,284] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-09 00:00:00+00:00: scheduled__2015-06-09T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:49:29,289] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-10 00:00:00+00:00: scheduled__2015-06-10T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:49:29,297] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-11 00:00:00+00:00: scheduled__2015-06-11T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:49:29,303] {logging_mixin.py:112} INFO - [2019-11-07 17:49:29,302] {dagrun.py:317} INFO - Marking run <DagRun tutorial @ 2015-06-11 00:00:00+00:00: scheduled__2015-06-11T00:00:00+00:00, externally triggered: False> successful
+[2019-11-07 17:49:29,313] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-12 00:00:00+00:00: scheduled__2015-06-12T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:49:29,319] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-13 00:00:00+00:00: scheduled__2015-06-13T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:49:29,327] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-14 00:00:00+00:00: scheduled__2015-06-14T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:49:29,334] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-15 00:00:00+00:00: scheduled__2015-06-15T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:49:29,342] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-16 00:00:00+00:00: scheduled__2015-06-16T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:49:29,347] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-17 00:00:00+00:00: scheduled__2015-06-17T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:49:29,353] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-18 00:00:00+00:00: scheduled__2015-06-18T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:49:29,358] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2019-11-07 16:45:05.910479+00:00: manual__2019-11-07T16:45:05.910479+00:00, externally triggered: True>
+[2019-11-07 17:49:29,444] {scheduler_job.py:440} INFO - Skipping SLA check for <DAG: tutorial> because no tasks in DAG have SLAs
+[2019-11-07 17:49:29,448] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: tutorial.sleep 2015-06-15 00:00:00+00:00 [scheduled]> in ORM
+[2019-11-07 17:49:29,451] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: tutorial.templated 2015-06-15 00:00:00+00:00 [scheduled]> in ORM
+[2019-11-07 17:49:29,453] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: tutorial.print_date 2015-06-17 00:00:00+00:00 [scheduled]> in ORM
+[2019-11-07 17:49:29,455] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: tutorial.print_date 2015-06-18 00:00:00+00:00 [scheduled]> in ORM
+[2019-11-07 17:49:29,473] {scheduler_job.py:161} INFO - Processing /home/vlad/airflow/dags/poc.py took 0.315 seconds
+[2019-11-07 17:49:31,157] {scheduler_job.py:153} INFO - Started process (PID=9984) to work on /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:49:31,164] {scheduler_job.py:1528} INFO - Processing file /home/vlad/airflow/dags/poc.py for tasks to queue
+[2019-11-07 17:49:31,165] {logging_mixin.py:112} INFO - [2019-11-07 17:49:31,165] {dagbag.py:92} INFO - Filling up the DagBag from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:49:31,174] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:49:31,209] {scheduler_job.py:1260} INFO - Processing tutorial
+[2019-11-07 17:49:31,248] {scheduler_job.py:1270} INFO - Created <DagRun tutorial @ 2015-06-19 00:00:00+00:00: scheduled__2015-06-19T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:49:31,255] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-01 00:00:00+00:00: scheduled__2015-06-01T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:49:31,267] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-03 00:00:00+00:00: scheduled__2015-06-03T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:49:31,274] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-04 00:00:00+00:00: scheduled__2015-06-04T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:49:31,286] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-06 00:00:00+00:00: scheduled__2015-06-06T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:49:31,294] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-07 00:00:00+00:00: scheduled__2015-06-07T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:49:31,311] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-09 00:00:00+00:00: scheduled__2015-06-09T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:49:31,319] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-10 00:00:00+00:00: scheduled__2015-06-10T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:49:31,328] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-12 00:00:00+00:00: scheduled__2015-06-12T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:49:31,335] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-13 00:00:00+00:00: scheduled__2015-06-13T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:49:31,345] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-14 00:00:00+00:00: scheduled__2015-06-14T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:49:31,355] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-15 00:00:00+00:00: scheduled__2015-06-15T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:49:31,365] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-16 00:00:00+00:00: scheduled__2015-06-16T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:49:31,373] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-17 00:00:00+00:00: scheduled__2015-06-17T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:49:31,383] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-18 00:00:00+00:00: scheduled__2015-06-18T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:49:31,392] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2015-06-19 00:00:00+00:00: scheduled__2015-06-19T00:00:00+00:00, externally triggered: False>
+[2019-11-07 17:49:31,401] {scheduler_job.py:738} INFO - Examining DAG run <DagRun tutorial @ 2019-11-07 16:45:05.910479+00:00: manual__2019-11-07T16:45:05.910479+00:00, externally triggered: True>
+[2019-11-07 17:49:31,533] {scheduler_job.py:440} INFO - Skipping SLA check for <DAG: tutorial> because no tasks in DAG have SLAs
+[2019-11-07 17:49:31,538] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: tutorial.print_date 2015-06-19 00:00:00+00:00 [scheduled]> in ORM
+[2019-11-07 17:49:31,554] {scheduler_job.py:161} INFO - Processing /home/vlad/airflow/dags/poc.py took 0.397 seconds
+[2019-11-07 17:50:09,842] {scheduler_job.py:153} INFO - Started process (PID=10076) to work on /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:50:09,852] {scheduler_job.py:1528} INFO - Processing file /home/vlad/airflow/dags/poc.py for tasks to queue
+[2019-11-07 17:50:09,853] {logging_mixin.py:112} INFO - [2019-11-07 17:50:09,853] {dagbag.py:92} INFO - Filling up the DagBag from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:50:09,872] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:50:09,938] {scheduler_job.py:1260} INFO - Processing tutorial
+[2019-11-07 17:50:10,006] {scheduler_job.py:165} ERROR - Got an exception! Propagating...
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/sqlalchemy/engine/base.py", line 761, in _commit_impl
+    self.engine.dialect.do_commit(self.connection)
+  File "/usr/local/lib/python3.6/dist-packages/sqlalchemy/engine/default.py", line 533, in do_commit
+    dbapi_connection.commit()
+sqlite3.OperationalError: disk I/O error
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/airflow/jobs/scheduler_job.py", line 157, in _run_file_processor
+    pickle_dags)
+  File "/usr/local/lib/python3.6/dist-packages/airflow/utils/db.py", line 74, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/airflow/jobs/scheduler_job.py", line 1577, in process_file
+    self._process_dags(dagbag, dags, ti_keys_to_schedule)
+  File "/usr/local/lib/python3.6/dist-packages/airflow/jobs/scheduler_job.py", line 1262, in _process_dags
+    dag_run = self.create_dag_run(dag)
+  File "/usr/local/lib/python3.6/dist-packages/airflow/utils/db.py", line 74, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/airflow/jobs/scheduler_job.py", line 722, in create_dag_run
+    external_trigger=False
+  File "/usr/local/lib/python3.6/dist-packages/airflow/utils/db.py", line 74, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/airflow/models/dag.py", line 1332, in create_dagrun
+    session.commit()
+  File "/usr/local/lib/python3.6/dist-packages/sqlalchemy/orm/session.py", line 1027, in commit
+    self.transaction.commit()
+  File "/usr/local/lib/python3.6/dist-packages/sqlalchemy/orm/session.py", line 498, in commit
+    t[1].commit()
+  File "/usr/local/lib/python3.6/dist-packages/sqlalchemy/engine/base.py", line 1724, in commit
+    self._do_commit()
+  File "/usr/local/lib/python3.6/dist-packages/sqlalchemy/engine/base.py", line 1755, in _do_commit
+    self.connection._commit_impl()
+  File "/usr/local/lib/python3.6/dist-packages/sqlalchemy/engine/base.py", line 763, in _commit_impl
+    self._handle_dbapi_exception(e, None, None, None, None)
+  File "/usr/local/lib/python3.6/dist-packages/sqlalchemy/engine/base.py", line 1473, in _handle_dbapi_exception
+    util.raise_from_cause(sqlalchemy_exception, exc_info)
+  File "/usr/local/lib/python3.6/dist-packages/sqlalchemy/util/compat.py", line 398, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/usr/local/lib/python3.6/dist-packages/sqlalchemy/util/compat.py", line 152, in reraise
+    raise value.with_traceback(tb)
+  File "/usr/local/lib/python3.6/dist-packages/sqlalchemy/engine/base.py", line 761, in _commit_impl
+    self.engine.dialect.do_commit(self.connection)
+  File "/usr/local/lib/python3.6/dist-packages/sqlalchemy/engine/default.py", line 533, in do_commit
+    dbapi_connection.commit()
+sqlalchemy.exc.OperationalError: (sqlite3.OperationalError) disk I/O error
+(Background on this error at: http://sqlalche.me/e/e3q8)

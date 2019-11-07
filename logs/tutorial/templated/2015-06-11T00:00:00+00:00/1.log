@@ -1,0 +1,61 @@
+[2019-11-07 17:49:09,185] {taskinstance.py:630} INFO - Dependencies all met for <TaskInstance: tutorial.templated 2015-06-11T00:00:00+00:00 [queued]>
+[2019-11-07 17:49:09,195] {taskinstance.py:630} INFO - Dependencies all met for <TaskInstance: tutorial.templated 2015-06-11T00:00:00+00:00 [queued]>
+[2019-11-07 17:49:09,195] {taskinstance.py:841} INFO - 
+--------------------------------------------------------------------------------
+[2019-11-07 17:49:09,196] {taskinstance.py:842} INFO - Starting attempt 1 of 2
+[2019-11-07 17:49:09,196] {taskinstance.py:843} INFO - 
+--------------------------------------------------------------------------------
+[2019-11-07 17:49:09,210] {taskinstance.py:862} INFO - Executing <Task(BashOperator): templated> on 2015-06-11T00:00:00+00:00
+[2019-11-07 17:49:09,210] {base_task_runner.py:133} INFO - Running: ['airflow', 'run', 'tutorial', 'templated', '2015-06-11T00:00:00+00:00', '--job_id', '20', '--pool', 'default_pool', '--raw', '-sd', 'DAGS_FOLDER/poc.py', '--cfg_path', '/tmp/tmp_mpwxfjz']
+[2019-11-07 17:49:11,851] {base_task_runner.py:115} INFO - Job 20: Subtask templated [2019-11-07 17:49:11,850] {__init__.py:51} INFO - Using executor SequentialExecutor
+[2019-11-07 17:49:11,852] {base_task_runner.py:115} INFO - Job 20: Subtask templated [2019-11-07 17:49:11,851] {dagbag.py:92} INFO - Filling up the DagBag from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:49:11,883] {base_task_runner.py:115} INFO - Job 20: Subtask templated [2019-11-07 17:49:11,883] {cli.py:545} INFO - Running <TaskInstance: tutorial.templated 2015-06-11T00:00:00+00:00 [running]> on host SP-9859.localdomain
+[2019-11-07 17:49:11,908] {bash_operator.py:81} INFO - Tmp dir root location: 
+ /tmp
+[2019-11-07 17:49:11,908] {bash_operator.py:91} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_ID=tutorial
+AIRFLOW_CTX_TASK_ID=templated
+AIRFLOW_CTX_EXECUTION_DATE=2015-06-11T00:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2015-06-11T00:00:00+00:00
+[2019-11-07 17:49:11,910] {bash_operator.py:105} INFO - Temporary script location: /tmp/airflowtmp5by4p1jj/templated7l428yyn
+[2019-11-07 17:49:11,910] {bash_operator.py:115} INFO - Running command: 
+    
+        echo "2015-06-11"
+        echo "2015-06-18"
+        echo "Parameter I passed in"
+    
+        echo "2015-06-11"
+        echo "2015-06-18"
+        echo "Parameter I passed in"
+    
+        echo "2015-06-11"
+        echo "2015-06-18"
+        echo "Parameter I passed in"
+    
+        echo "2015-06-11"
+        echo "2015-06-18"
+        echo "Parameter I passed in"
+    
+        echo "2015-06-11"
+        echo "2015-06-18"
+        echo "Parameter I passed in"
+    
+[2019-11-07 17:49:11,944] {bash_operator.py:124} INFO - Output:
+[2019-11-07 17:49:11,951] {bash_operator.py:128} INFO - 2015-06-11
+[2019-11-07 17:49:11,951] {bash_operator.py:128} INFO - 2015-06-18
+[2019-11-07 17:49:11,951] {bash_operator.py:128} INFO - Parameter I passed in
+[2019-11-07 17:49:11,951] {bash_operator.py:128} INFO - 2015-06-11
+[2019-11-07 17:49:11,951] {bash_operator.py:128} INFO - 2015-06-18
+[2019-11-07 17:49:11,951] {bash_operator.py:128} INFO - Parameter I passed in
+[2019-11-07 17:49:11,951] {bash_operator.py:128} INFO - 2015-06-11
+[2019-11-07 17:49:11,951] {bash_operator.py:128} INFO - 2015-06-18
+[2019-11-07 17:49:11,951] {bash_operator.py:128} INFO - Parameter I passed in
+[2019-11-07 17:49:11,952] {bash_operator.py:128} INFO - 2015-06-11
+[2019-11-07 17:49:11,952] {bash_operator.py:128} INFO - 2015-06-18
+[2019-11-07 17:49:11,952] {bash_operator.py:128} INFO - Parameter I passed in
+[2019-11-07 17:49:11,952] {bash_operator.py:128} INFO - 2015-06-11
+[2019-11-07 17:49:11,952] {bash_operator.py:128} INFO - 2015-06-18
+[2019-11-07 17:49:11,952] {bash_operator.py:128} INFO - Parameter I passed in
+[2019-11-07 17:49:11,953] {bash_operator.py:132} INFO - Command exited with return code 0
+[2019-11-07 17:49:14,160] {logging_mixin.py:112} INFO - [2019-11-07 17:49:14,160] {local_task_job.py:124} WARNING - Time since last heartbeat(0.00 s) < heartrate(5.0 s), sleeping for 4.995297 s
+[2019-11-07 17:49:19,158] {logging_mixin.py:112} INFO - [2019-11-07 17:49:19,156] {local_task_job.py:103} INFO - Task exited with return code 0

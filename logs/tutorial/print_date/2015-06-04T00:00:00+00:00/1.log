@@ -1,0 +1,26 @@
+[2019-11-07 17:45:35,925] {taskinstance.py:630} INFO - Dependencies all met for <TaskInstance: tutorial.print_date 2015-06-04T00:00:00+00:00 [queued]>
+[2019-11-07 17:45:35,939] {taskinstance.py:630} INFO - Dependencies all met for <TaskInstance: tutorial.print_date 2015-06-04T00:00:00+00:00 [queued]>
+[2019-11-07 17:45:35,939] {taskinstance.py:841} INFO - 
+--------------------------------------------------------------------------------
+[2019-11-07 17:45:35,939] {taskinstance.py:842} INFO - Starting attempt 1 of 2
+[2019-11-07 17:45:35,939] {taskinstance.py:843} INFO - 
+--------------------------------------------------------------------------------
+[2019-11-07 17:45:35,955] {taskinstance.py:862} INFO - Executing <Task(BashOperator): print_date> on 2015-06-04T00:00:00+00:00
+[2019-11-07 17:45:35,955] {base_task_runner.py:133} INFO - Running: ['airflow', 'run', 'tutorial', 'print_date', '2015-06-04T00:00:00+00:00', '--job_id', '4', '--pool', 'default_pool', '--raw', '-sd', 'DAGS_FOLDER/poc.py', '--cfg_path', '/tmp/tmpopzdjufq']
+[2019-11-07 17:45:38,233] {base_task_runner.py:115} INFO - Job 4: Subtask print_date [2019-11-07 17:45:38,232] {__init__.py:51} INFO - Using executor SequentialExecutor
+[2019-11-07 17:45:38,233] {base_task_runner.py:115} INFO - Job 4: Subtask print_date [2019-11-07 17:45:38,233] {dagbag.py:92} INFO - Filling up the DagBag from /home/vlad/airflow/dags/poc.py
+[2019-11-07 17:45:38,250] {base_task_runner.py:115} INFO - Job 4: Subtask print_date [2019-11-07 17:45:38,250] {cli.py:545} INFO - Running <TaskInstance: tutorial.print_date 2015-06-04T00:00:00+00:00 [running]> on host SP-9859.localdomain
+[2019-11-07 17:45:38,261] {bash_operator.py:81} INFO - Tmp dir root location: 
+ /tmp
+[2019-11-07 17:45:38,261] {bash_operator.py:91} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_ID=tutorial
+AIRFLOW_CTX_TASK_ID=print_date
+AIRFLOW_CTX_EXECUTION_DATE=2015-06-04T00:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2015-06-04T00:00:00+00:00
+[2019-11-07 17:45:38,262] {bash_operator.py:105} INFO - Temporary script location: /tmp/airflowtmp4mse5zfk/print_datet_nb0sjt
+[2019-11-07 17:45:38,262] {bash_operator.py:115} INFO - Running command: date
+[2019-11-07 17:45:38,288] {bash_operator.py:124} INFO - Output:
+[2019-11-07 17:45:38,305] {bash_operator.py:128} INFO - Thu Nov  7 17:45:38 CET 2019
+[2019-11-07 17:45:38,306] {bash_operator.py:132} INFO - Command exited with return code 0
+[2019-11-07 17:45:40,910] {logging_mixin.py:112} INFO - [2019-11-07 17:45:40,909] {local_task_job.py:124} WARNING - Time since last heartbeat(0.01 s) < heartrate(5.0 s), sleeping for 4.991958 s
+[2019-11-07 17:45:45,904] {logging_mixin.py:112} INFO - [2019-11-07 17:45:45,902] {local_task_job.py:103} INFO - Task exited with return code 0
